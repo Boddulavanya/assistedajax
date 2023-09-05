@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HR+cUWaazpogNCvInwzOWl/mI9VPYFr9TFco431om6NhcWi0s6m6CE3UoTjpNaaAHnc3CTc/t/SDMW5gh6xqtw==",
+  "success": true,
+  "projectFilePath": "D:\\simplilearn\\phase2\\Assisted projects\\Assisted11\\Assisted11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\jquery.validation\\1.8.0.1\\jquery.validation.1.8.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\4.0.0\\microsoft.jquery.unobtrusive.validation.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
